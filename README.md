@@ -1,0 +1,1 @@
+Exercícios_didáticos_do_presente = Ferramentas_de_trabalho_do_futuro
